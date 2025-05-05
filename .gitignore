@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+qwen2-7b-instruct-trl-sft-ChartQA/
+wandb/
