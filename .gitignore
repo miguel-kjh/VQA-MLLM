@@ -175,3 +175,6 @@ cython_debug/
 
 qwen2-7b-instruct-trl-sft-ChartQA/
 wandb/
+
+MNIST/
+models/
